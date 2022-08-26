@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 informacion archivo2
+=======
+info archivo
+2
+
+Info por Cris
+>>>>>>> c3adc193448da3a7c837e61a60823e1c21d54284

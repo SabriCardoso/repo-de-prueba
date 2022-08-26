@@ -1,1 +1,1 @@
-info archivo1
+informacion archivo1.txt
